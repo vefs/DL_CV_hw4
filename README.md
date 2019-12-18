@@ -14,3 +14,10 @@ cfg.SOLVER.MAX_ITER = 100000
 cfg.MODEL.ROI_HEADS.BATCH_SIZE_PER_IMAGE = 128   
 
 cfg.MODEL.ROI_HEADS.NUM_CLASSES = 20    --> category number = 20 
+
+
+# For Debug
+
+cfg.OUTPUT_DIR = 'hw4_output'
+
+$tensorboard --logdir hw4_output
