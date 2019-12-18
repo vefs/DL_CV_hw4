@@ -5,7 +5,7 @@ Follow https://github.com/facebookresearch/detectron2/blob/master/INSTALL.md
 Follow [Colab Notebook](https://colab.research.google.com/drive/16jcaJoc6bCFAQ96jDe2HwtXj7BMD_-m5)
 Check your dataset by visualizer
 
-# Sone Config parameter (For Reference)
+# Some Config parameter (For Reference)
 
 cfg.SOLVER.BASE_LR = 0.00025
 
